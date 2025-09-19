@@ -17,7 +17,7 @@ Una aplicación web sencilla desarrollada con **HTML**, **CSS** y **JavaScript**
 
 ## 📸 Vista previa
 
-![Captura de pantalla](assets/amigo-secreto.png)
+<img width="1448" height="766" alt="image" src="https://github.com/user-attachments/assets/0028014a-9cb0-47c8-9844-4c0b6d8e28f2" />
 
 ---
 
